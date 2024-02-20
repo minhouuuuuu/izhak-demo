@@ -102,17 +102,17 @@ video {
     }
 
     .top-left {
-        top: 38%;
+        top: 35%;
         left: 33%;
     }
 
     .bottom-left {
-        bottom: 38%;
+        bottom: 35%;
         left: 33%;
     }
 
     .bottom-right {
-        bottom: 38%;
+        bottom: 35%;
         right: 33%;
     }
 }
