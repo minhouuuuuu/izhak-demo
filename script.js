@@ -9,13 +9,13 @@ gsap.from(".letter", 1.2, {
 gsap.to('.top-left', 2, {
     top: "0",
     ease: "power3.inOut",
-    delay: 1.4,
+    delay: 1.5,
 })
 
 gsap.to('.bottom-left, .bottom-right', 2, {
     bottom: "0",
     ease: "power3.inOut",
-    delay: 1.4,
+    delay: 1.5,
 })
 
 gsap.to('.top-left', 2, {
